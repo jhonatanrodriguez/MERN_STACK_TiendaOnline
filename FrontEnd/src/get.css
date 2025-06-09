@@ -1,0 +1,25 @@
+.nav {
+    display: flex;
+    margin-block: 15px;
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: #4D4D4D;
+    font-weight: 500;
+    padding: 5px 20px;
+  }
+  
+  .nav a:first-of-type {
+    text-decoration: none;
+    color: #4D4D4D;
+    font-weight: 500;
+    padding: 5px 15px;
+    margin-left: -15px;
+  }
+  
+  .nav a:hover {
+    color: #161616;
+    text-decoration: underline;
+    font-weight: 700;
+  }
